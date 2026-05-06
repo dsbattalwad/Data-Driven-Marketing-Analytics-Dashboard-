@@ -1,0 +1,11 @@
+Campaign_ID,Campaign_Name,Channel,Campaign_Type,Cost,Revenue,Profit,ROAS
+CAMP_018,Google_Brand_Awareness_018,Google Ads,Brand Awareness,40592.42,220434.27,179841.85,5.43
+CAMP_009,Google_Brand_Awareness_009,Google Ads,Brand Awareness,43080.01,138860.88,95780.87,3.22
+CAMP_035,Google_Seasonal_Promo_035,Google Ads,Seasonal Promo,32192.19,103507.82,71315.63,3.22
+CAMP_047,Google_Product_Launch_047,Google Ads,Product Launch,24195.03,100209.45,76014.42,4.14
+CAMP_001,Google_Brand_Awareness_001,Google Ads,Brand Awareness,12564.66,68080.65,55515.99,5.42
+CAMP_014,Instagram_Seasonal_Promo_014,Instagram Ads,Seasonal Promo,14200.92,47697.6,33496.68,3.36
+CAMP_006,Instagram_Brand_Awareness_006,Instagram Ads,Brand Awareness,23065.98,44866.82,21800.84,1.95
+CAMP_011,Instagram_Lead_Generation_011,Instagram Ads,Lead Generation,13344.69,34954.25,21609.56,2.62
+CAMP_022,Facebook_Seasonal_Promo_022,Facebook Ads,Seasonal Promo,10407.14,34657.09,24249.95,3.33
+CAMP_036,Google_Brand_Awareness_036,Google Ads,Brand Awareness,7807.68,33945.51,26137.83,4.35
